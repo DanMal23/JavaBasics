@@ -7,10 +7,10 @@ public class ScannerDoubles {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		
-		System.out.print("Podaj pierwszÄ… liczbÄ™: ");
+		System.out.print("Podaj pierwsz¹ liczbê: ");
 		double dbl1 = Double.parseDouble(in.next());
 		
-		System.out.print("Podaj drugÄ… liczbÄ™: ");
+		System.out.print("Podaj drug¹ liczbê: ");
 		double dbl2 = in.nextDouble();		
 		in.close();
 		
