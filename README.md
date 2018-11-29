@@ -1,2 +1,2 @@
 # PPJ
-PPJ
+Java Basics
