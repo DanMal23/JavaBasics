@@ -1,2 +1,2 @@
-# PPJ
-Java Basics
+#JavaBasics
+Programming in Java - basics
